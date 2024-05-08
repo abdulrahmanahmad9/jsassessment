@@ -253,4 +253,3 @@ const menu = [
 return list;
   }
   console.log(getMenuItemsByIngredient(menu, "Parmesan"));
-  
